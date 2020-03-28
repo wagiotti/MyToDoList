@@ -29,7 +29,7 @@ export default {
     }
 
     .form-element {
-        outline: nome;
+        outline: none;
         font-size: 2rem;
         border: 1px solid #fff;
         padding: 5px 8px 10px;
@@ -41,6 +41,7 @@ export default {
         background: #fff2;
         border-top-left-radius: 8px;
         border-bottom-left-radius: 8px;
+        
     }
 
     button.form-element {
@@ -48,5 +49,6 @@ export default {
         background-color: #2196f3;
         border-top-right-radius: 8px;
         border-bottom-right-radius: 8px;
+       
     }
 </style>
